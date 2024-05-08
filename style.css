@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+.centralizar{
+    text-align: center;
+}
+.botoes{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 20px;
+}
